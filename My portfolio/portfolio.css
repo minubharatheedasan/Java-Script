@@ -1,0 +1,16 @@
+@charset "UTF-8";
+header .my_header{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgreen;
+    font-style:italic;
+    font-display:initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant:small-caps;
+    background-image: url("/Image/132847.jpg");
+    text-shadow: 2px 2px 3px gold;
+    /*height: 500px; /* You must set a specified height */
+    /*background-position: center; /* Center the image */
+    /*background-repeat: no-repeat; /* Do not repeat the image */
+    /*background-size: cover; /* Resize the background image to cover the entire container */
+}
